@@ -1,4 +1,4 @@
 theme: jekyll-theme-hacker
-title: <img src="favicon.png" />HackMe
+title: <div align="center"><img src="favicon.png" /></div><br/>HackMe
 description: By Joey Moore
 logo: favicon.png
