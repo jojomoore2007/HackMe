@@ -4,10 +4,3 @@ visibility: hidden;
 word-spacing:-999px;
 letter-spacing: -999px; 
 }
-
-section#downloads:after {
-content: "<div align='center'><a href='https://github.com/jojomoore2007/HackMe' class='btn btn-github' id='viewingithub'><span class='icon'></span>View on GitHub</a></div>";
-visibility: visible;
-word-spacing:normal;
-letter-spacing:normal; 
-}
